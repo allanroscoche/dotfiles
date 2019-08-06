@@ -21,6 +21,7 @@ Plugin 'tpope/vim-surround'
 Plugin 'junegunn/fzf.vim'
 Plugin 'w0rp/ale'
 Plugin 'scrooloose/nerdtree'
+Plugin 'posva/vim-vue'
 "Plugin 'avakhov/vim-yaml'
 
 call vundle#end()
