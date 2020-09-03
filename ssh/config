@@ -1,9 +1,0 @@
-Host web
-  HostName acessodr.com
-  User ubuntu
-  IdentityFile ~/.ssh/acessodr.pem
-
-Host dev
-  HostName allanroscoche.com
-  User ec2-user
-  IdentityFile ~/.ssh/acessodr.pem
