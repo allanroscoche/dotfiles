@@ -1,0 +1,9 @@
+[user]
+	name = Allan Roscoche
+	email = allanroscoche@gmail.com
+
+[alias]
+	st = status
+	co = checkout
+[init]
+	defaultBranch = main
